@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\source\\repos\\project_notas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|c:\\users\\marlo\\source\\repos\\project_notas\\presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|c:\\users\\marlo\\source\\repos\\project_notas\\presentacion\\credenciales\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\credenciales\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F9E02D-3840-4FBC-A1F7-7D02AAB9561E}|Negocio\\Negocio.csproj|c:\\users\\marlo\\source\\repos\\project_notas\\negocio\\ncredenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F9E02D-3840-4FBC-A1F7-7D02AAB9561E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ncredenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF2885-2728-4EFE-ACAF-75C519E0002E}|Datos\\Datos.csproj|c:\\users\\marlo\\source\\repos\\project_notas\\datos\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF2885-2728-4EFE-ACAF-75C519E0002E}|Datos\\Datos.csproj|solutionrelative:datos\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|C:\\Users\\marlo\\source\\repos\\project_notas\\presentacion\\credenciales\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA623F0-1B82-4681-A3CA-CA258DBBB525}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\credenciales\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\index.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\index.aspx",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\index.aspx",
+              "RelativeToolTip": "Presentacion\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-11T21:48:37.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NCredenciales.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\project_notas\\Negocio\\NCredenciales.cs",
+              "RelativeDocumentMoniker": "Negocio\\NCredenciales.cs",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\project_notas\\Negocio\\NCredenciales.cs",
+              "RelativeToolTip": "Negocio\\NCredenciales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:36:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Credenciales.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\project_notas\\Datos\\Credenciales.cs",
+              "RelativeDocumentMoniker": "Datos\\Credenciales.cs",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\project_notas\\Datos\\Credenciales.cs",
+              "RelativeToolTip": "Datos\\Credenciales.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:55:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\Credenciales\\index.aspx.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Credenciales\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\Credenciales\\index.aspx.cs",
+              "RelativeToolTip": "Presentacion\\Credenciales\\index.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:17:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\Credenciales\\index.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\Credenciales\\index.aspx",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\project_notas\\Presentacion\\Credenciales\\index.aspx",
+              "RelativeToolTip": "Presentacion\\Credenciales\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-11T03:41:51.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

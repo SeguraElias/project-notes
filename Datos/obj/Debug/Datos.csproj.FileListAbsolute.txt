@@ -1,0 +1,6 @@
+C:\Users\marlo\source\repos\project_notas\Datos\bin\Debug\Datos.dll
+C:\Users\marlo\source\repos\project_notas\Datos\bin\Debug\Datos.pdb
+C:\Users\marlo\source\repos\project_notas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\project_notas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\project_notas\Datos\obj\Debug\Datos.dll
+C:\Users\marlo\source\repos\project_notas\Datos\obj\Debug\Datos.pdb
